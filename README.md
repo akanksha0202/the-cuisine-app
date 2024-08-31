@@ -68,3 +68,41 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+# The Delicious Cuisine
+
+1. Header
+   i. Logo
+   ii. Nav Bar
+
+2. Body
+   i. Search Input
+   ii. Restaurant Container
+
+a. Restaurant Card
+i. Image
+ii. Name of Res, Star Rating, Cuisine, etc
+
+3. Footer
+   i. Copyright
+   ii. Links
+   iii. Address
+   iv. Contact
+
+Two types of Expor/Import
+
+- Default Export/Import
+
+  export dafult Component;
+  import Component from "path";
+
+- Named Export/Import
+  export const Component;
+  import { Component} from "path";
+
+# React Hooks
+
+(Normal JS Utility Functions)
+
+1. useState() - Superpowerful state
+2. useEffect()
